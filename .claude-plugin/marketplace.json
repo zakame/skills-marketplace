@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code skills and agent team plugins by Zak Elep",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "plugins": [
     {
@@ -16,7 +16,7 @@
         "url": "https://github.com/zakame/brooks-agent-team.git"
       },
       "description": "Surgical team collaboration skills for Claude Code, inspired by Fred Brooks' Mythical Man-Month",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "strict": true
     }
   ]
